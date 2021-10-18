@@ -1,0 +1,7 @@
+C:\Downloads\CD-REC\TEST\AGWPEAPI\KMNumeratorForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\AGWPEAPI\KMNumeratorForm\obj\Debug\KMZRebuilder.KMNumeratorForm.resources
+C:\Downloads\CD-REC\TEST\AGWPEAPI\KMNumeratorForm\obj\Debug\KMNumerator.csproj.GenerateResource.Cache
+C:\Downloads\CD-REC\TEST\AGWPEAPI\KMNumeratorForm\bin\Debug\KMNumerator.exe
+C:\Downloads\CD-REC\TEST\AGWPEAPI\KMNumeratorForm\bin\Debug\KMNumerator.pdb
+C:\Downloads\CD-REC\TEST\AGWPEAPI\KMNumeratorForm\obj\Debug\KMNumerator.exe
+C:\Downloads\CD-REC\TEST\AGWPEAPI\KMNumeratorForm\obj\Debug\KMNumerator.pdb
